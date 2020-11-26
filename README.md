@@ -19,4 +19,4 @@ void loop() {
   delay(100);
 }
 ### Evidence
-<vid src="Videos/IMG-1909.mov" width="200">
+<img src="Videos/IMG-1909.mov" width="200">
